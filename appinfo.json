@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hellozhengxiaochen@gmail.com",
+    "longName": "Pebble Mov Monitor 5Hz",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "PebMovMonitor5Hz",
+    "uuid": "7def5a6c-22af-45bd-b332-51ef6031d520",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
